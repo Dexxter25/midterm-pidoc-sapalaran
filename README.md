@@ -4,7 +4,7 @@ by [Ralph Dexter Rhey A. Pidoc](https://www.facebook.com/dexterpidoc) and [Rodel
 
 ## Information Gathering ##
 **Maltego**- It is used for gathering information for security related work. It will save your time and make you work smarter and accurately. It will help you in the thinking process by demonstrating connected links between all the searched items. If you want to get hidden information, it(Maltego) can help you to discover it.
-
+[Video Tutorial](https://youtu.be/GwBiJqa_nEc?si=il7mX9BWdkg74VmR)
 **Spiderfoot**- This package contains an open source intelligence (OSINT) automation tool. Its goal is to automate the process of gathering intelligence about a given target, which may be an IP address, domain name, hostname, network subnet, ASN, e-mail address or person's name
 
 **Spiderfoot-cli**-SpiderFoot CLI (Command Line Interface) is a variant of SpiderFoot, which is an open-source tool designed for automating the process of gathering intelligence or information about a given target (which could be an IP address, domain name, hostname, network subnet, etc.). 
@@ -56,7 +56,14 @@ by [Ralph Dexter Rhey A. Pidoc](https://www.facebook.com/dexterpidoc) and [Rodel
 
 **ncrack**- is a fast network authentication cracking tool similar to hydra but with a focus on performance and reliability. It supports many protocols and services.
 
-**ophcrack**- ophcrack is a GUI-based password cracker that specializes in cracking Windows passwords by using rainbow tables.
+**ophcrack**- is a GUI-based password cracker that specializes in cracking Windows passwords by using rainbow tables.
 
 **wordlists**-Wordlists are collections of words or passwords used by password cracking tools for dictionary-based attacks. They can be generic wordlists or customized lists based on specific criteria.
 
+## Wireless Attacks ##
+
+**aircrack-ng**- is a suite of tools used for assessing Wi-Fi network security. It includes tools for capturing packets, analyzing wireless traffic, and cracking WEP and WPA/WPA2-PSK encryption keys.
+**kismet**- is a wireless network detector, sniffer, and intrusion detection system. It can passively detect wireless networks, collect packet information, and identify hidden networks or potential security threats.
+**pixiewps**-  is a tool used for offline brute-forcing of WPS (Wi-Fi Protected Setup) PINs. It exploits a vulnerability in the WPS protocol to recover the WPA/WPA2 passphrase.
+**reaver**- is a tool specifically designed for brute-forcing WPS PINs to recover WPA/WPA2 passphrases. It sends brute-force attacks against WPS-enabled routers to obtain the Wi-Fi network's password.
+**wifite**-  is a wireless auditing tool that automates the process of scanning for available Wi-Fi networks, capturing packets, and attempting to crack WEP and WPA/WPA2 passwords. It's designed to be fast and easy to use for both beginners and experienced users.
