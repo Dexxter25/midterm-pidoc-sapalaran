@@ -9,7 +9,7 @@ by [Ralph Dexter Rhey A. Pidoc](https://www.facebook.com/dexterpidoc) and [Rodel
 * **Spiderfoot**- This package contains an open source intelligence (OSINT) automation tool. Its goal is to automate the process of gathering intelligence about a given target, which may be an IP address, domain name, hostname, network subnet, ASN, e-mail address or person's name
 [Video Tutorial](https://youtu.be/UqrwXjqxgeI?si=1pBS-gKjq1fwUvoI)
 
- * **Spiderfoot-cli**-SpiderFoot CLI (Command Line Interface) is a variant of SpiderFoot, which is an open-source tool designed for automating the process of gathering intelligence or information about a given target (which could be an IP address, domain name, hostname, network subnet, etc.). 
+ * **Spiderfoot-cli**- is a variant of SpiderFoot, which is an open-source tool designed for automating the process of gathering intelligence or information about a given target (which could be an IP address, domain name, hostname, network subnet, etc.). 
 [Video Tutorial](https://youtu.be/sSYuTD7wDhE?si=5aBQlnfWywZVMnuC)
 
  * **theharvestor**- is a tool commonly used in penetration testing and ethical hacking, designed for gathering open-source intelligence (OSINT) about an organization or individual. It focuses on a variety of sources to collect emails, names, subdomains, IPs, and URLs related to the target. The primary purpose of theHarvester is to help security professionals in the early stages of penetration testing to understand the human element and infrastructure of their target.
