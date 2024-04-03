@@ -18,10 +18,10 @@ by [Ralph Dexter Rhey A. Pidoc](https://www.facebook.com/dexterpidoc) and [Rodel
 
 ## Vulnerabiliry Analysis ##
 * **Legion(root)**- Legion is a penetration testing and vulnerability assessment framework designed for Linux-based systems. It provides a suite of tools and scripts aimed at identifying security weaknesses and vulnerabilities within a target system. The "root" in this context likely indicates that it operates with elevated privileges, which is necessary for performing certain types of tests that require access to sensitive system resources.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/XDwzyu9GtYY?si=ncvykw4NLD_BakOJ)
 
 * **nikto**- is an open-source web server scanner that performs comprehensive tests against web servers for multiple items, including potentially dangerous files/CGIs, outdated server software, and other security-related issues. It's commonly used by security professionals to identify and address vulnerabilities in web applications and servers.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/xXUa3Xvxpvw?si=oW2MqtEX7PdlV7R6)
 
 * **nmap**- is a powerful network scanning tool used for discovering hosts and services on a computer network, thus creating a map of the network's topology. It's capable of detecting open ports, identifying the operating system running on a target machine, and even deducing firewall rules. Nmap is commonly utilized in security assessments to identify potential points of entry for attackers or to conduct network inventory.
 [Video Tutorial]()
