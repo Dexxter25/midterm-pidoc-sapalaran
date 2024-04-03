@@ -14,8 +14,49 @@ by [Ralph Dexter Rhey A. Pidoc](https://www.facebook.com/dexterpidoc) and [Rodel
 ## Vulnerabiliry Analysis ##
 **Legion(root)**- Legion is a penetration testing and vulnerability assessment framework designed for Linux-based systems. It provides a suite of tools and scripts aimed at identifying security weaknesses and vulnerabilities within a target system. The "root" in this context likely indicates that it operates with elevated privileges, which is necessary for performing certain types of tests that require access to sensitive system resources.
 
-**nikto**- Nikto is an open-source web server scanner that performs comprehensive tests against web servers for multiple items, including potentially dangerous files/CGIs, outdated server software, and other security-related issues. It's commonly used by security professionals to identify and address vulnerabilities in web applications and servers.
+**nikto**- is an open-source web server scanner that performs comprehensive tests against web servers for multiple items, including potentially dangerous files/CGIs, outdated server software, and other security-related issues. It's commonly used by security professionals to identify and address vulnerabilities in web applications and servers.
 
-**nmap**- Nmap (Network Mapper) is a powerful network scanning tool used for discovering hosts and services on a computer network, thus creating a map of the network's topology. It's capable of detecting open ports, identifying the operating system running on a target machine, and even deducing firewall rules. Nmap is commonly utilized in security assessments to identify potential points of entry for attackers or to conduct network inventory.
+**nmap**- is a powerful network scanning tool used for discovering hosts and services on a computer network, thus creating a map of the network's topology. It's capable of detecting open ports, identifying the operating system running on a target machine, and even deducing firewall rules. Nmap is commonly utilized in security assessments to identify potential points of entry for attackers or to conduct network inventory.
 
 **unix-privesc-check**-This tool focuses specifically on checking for Unix/Linux privilege escalation vulnerabilities. It scans the system for potential misconfigurations, weaknesses, or outdated software that could be exploited by an attacker to escalate their privileges from a lower level (such as a regular user) to a higher level (such as root/administrator). It's particularly useful for system administrators and security professionals to ensure that systems are properly hardened against privilege escalation attacks.
+
+## Web Application Analysis ##
+
+**burpsuite**- is a powerful web application testing framework used for security testing. It's equipped with various tools for web vulnerability scanning, manual testing, and security assessment.
+
+**commix**- is an open-source tool specifically designed for automating web application security testing with a focus on detecting and exploiting command injection vulnerabilities.
+
+**skipfish**- is a web application security scanner developed by Google. It's designed to rapidly scan web applications for security vulnerabilities, including various types of injection flaws, security misconfigurations, and other common issues.
+
+**sqlmap**- is a popular open-source tool used for detecting and exploiting SQL injection vulnerabilities in web applications. It automates the process of identifying SQL injection flaws and can extract data from databases, escalate privileges, and execute arbitrary SQL commands.
+
+**webshells**- Webshells are malicious scripts or programs that attackers deploy on web servers to gain unauthorized access or control over the server. They can be used for various malicious activities, including executing commands, uploading files, and maintaining persistent access.
+
+**wpscan**- is a WordPress vulnerability scanner that specifically targets WordPress installations. It identifies security vulnerabilities, outdated plugins/themes, and other weaknesses in WordPress websites, helping administrators secure their WordPress installations.
+
+## Database Assessment ##
+
+**SQLite database browser**- is a graphical tool used for viewing and editing SQLite database files. It allows users to browse through the contents of SQLite databases, execute SQL queries, and manage database structures.
+
+**sqlmap**- is a powerful open-source tool used for detecting and exploiting SQL injection vulnerabilities in databases. It automates the process of identifying SQL injection flaws and can extract data from databases, escalate privileges, and execute arbitrary SQL commands.
+
+## Password Attacks ##
+
+**cewl**- is a tool used to generate custom wordlists by crawling a target website and extracting words from it.
+
+**crunch**-  is a tool for generating custom wordlists based on specified criteria such as character sets, minimum and maximum length, and patterns.
+
+**hashcat**-  is a powerful password recovery tool capable of cracking various types of hashes using GPU acceleration and a wide range of attack modes.
+
+**hydra**- is a popular network authentication cracker that supports various protocols, including SSH, FTP, HTTP, and many others. It can perform brute-force and dictionary attacks against login interfaces.
+
+**john**- also known as John the Ripper, is a versatile password cracking tool that supports various algorithms and attack modes for recovering passwords from hashed data.
+
+**Medusa**- is a speedy, parallel password cracking tool designed for network login authentication. It supports many protocols like SSH, FTP, HTTP, and more.
+
+**ncrack**- is a fast network authentication cracking tool similar to hydra but with a focus on performance and reliability. It supports many protocols and services.
+
+**ophcrack**- ophcrack is a GUI-based password cracker that specializes in cracking Windows passwords by using rainbow tables.
+
+**wordlists**-Wordlists are collections of words or passwords used by password cracking tools for dictionary-based attacks. They can be generic wordlists or customized lists based on specific criteria.
+
