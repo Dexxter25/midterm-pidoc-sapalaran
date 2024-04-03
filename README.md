@@ -24,79 +24,80 @@ by [Ralph Dexter Rhey A. Pidoc](https://www.facebook.com/dexterpidoc) and [Rodel
 [Video Tutorial](https://youtu.be/xXUa3Xvxpvw?si=oW2MqtEX7PdlV7R6)
 
 * **nmap**- is a powerful network scanning tool used for discovering hosts and services on a computer network, thus creating a map of the network's topology. It's capable of detecting open ports, identifying the operating system running on a target machine, and even deducing firewall rules. Nmap is commonly utilized in security assessments to identify potential points of entry for attackers or to conduct network inventory.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/IoIsTrKrl-0?si=RltJMRuQcfeC3KaO)
 
 * **unix-privesc-check**-This tool focuses specifically on checking for Unix/Linux privilege escalation vulnerabilities. It scans the system for potential misconfigurations, weaknesses, or outdated software that could be exploited by an attacker to escalate their privileges from a lower level (such as a regular user) to a higher level (such as root/administrator). It's particularly useful for system administrators and security professionals to ensure that systems are properly hardened against privilege escalation attacks.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/PDwWcX0a_Pk?si=GJmFqZnOrrfCR_8L)
 
 ## Web Application Analysis ##
 
 * **burpsuite**- is a powerful web application testing framework used for security testing. It's equipped with various tools for web vulnerability scanning, manual testing, and security assessment.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/Dk2Mk9pMwS4?si=hQ349bw1Yq5_uhFK)
 
 * **commix**- is an open-source tool specifically designed for automating web application security testing with a focus on detecting and exploiting command injection vulnerabilities.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/7VeZqlVLWdE?si=rLlK64WTWB5AjLvu)
 
 * **skipfish**- is a web application security scanner developed by Google. It's designed to rapidly scan web applications for security vulnerabilities, including various types of injection flaws, security misconfigurations, and other common issues.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/0VHd8Kzje4k?si=n2O7o7Y2wEh7tHrd)
 
 * **sqlmap**- is a popular open-source tool used for detecting and exploiting SQL injection vulnerabilities in web applications. It automates the process of identifying SQL injection flaws and can extract data from databases, escalate privileges, and execute arbitrary SQL commands.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/nVj8MUKkzQk?si=cGP0o_lbGD6XQUNR)
 
 * **webshells**- Webshells are malicious scripts or programs that attackers deploy on web servers to gain unauthorized access or control over the server. They can be used for various malicious activities, including executing commands, uploading files, and maintaining persistent access.
-[Video Tutorial]()
+[Video Tutorial](https://www.youtube.com/live/i-rcvGfVcQU?si=0Mvae0etVqMJB29B)
 
 * **wpscan**- is a WordPress vulnerability scanner that specifically targets WordPress installations. It identifies security vulnerabilities, outdated plugins/themes, and other weaknesses in WordPress websites, helping administrators secure their WordPress installations.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/sQ4TtFdaiRA?si=yeV1dmDqfZD8qbTT)
 
 ## Database Assessment ##
 
 * **SQLite database browser**- is a graphical tool used for viewing and editing SQLite database files. It allows users to browse through the contents of SQLite databases, execute SQL queries, and manage database structures.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/b0Dplx4M5zg?si=hYc6Ac1qJSJ3KdiO)
 
 * **sqlmap**- is a powerful open-source tool used for detecting and exploiting SQL injection vulnerabilities in databases. It automates the process of identifying SQL injection flaws and can extract data from databases, escalate privileges, and execute arbitrary SQL commands.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/nVj8MUKkzQk?si=EZ93kDMhDwjyAudT)
 
 ## Password Attacks ##
 
 * **cewl**- is a tool used to generate custom wordlists by crawling a target website and extracting words from it.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/mmfBiq_jdZc?si=GvZ8v3Agwo0ybMVP)
 * **crunch**-  is a tool for generating custom wordlists based on specified criteria such as character sets, minimum and maximum length, and patterns.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/0ouVxR7hLvE?si=8yenpCU_VdZbE8q3)
 
 * **hashcat**-  is a powerful password recovery tool capable of cracking various types of hashes using GPU acceleration and a wide range of attack modes.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/KnkjBW3fMVo?si=p3-X3_eObMm7oNHv)
 
 * **hydra**- is a popular network authentication cracker that supports various protocols, including SSH, FTP, HTTP, and many others. It can perform brute-force and dictionary attacks against login interfaces.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/lTyVksdhddY?si=S8OOFmQ9aFa3Xrpc)
 
 * **john**- also known as John the Ripper, is a versatile password cracking tool that supports various algorithms and attack modes for recovering passwords from hashed data.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/rioBjLN4FyY?si=_gWbIAjYUyckIuyi)
 
 * **Medusa**- is a speedy, parallel password cracking tool designed for network login authentication. It supports many protocols like SSH, FTP, HTTP, and more.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/7gYq0SSGxr4?si=FYImK1y3pa9q98av)
 
 * **ncrack**- is a fast network authentication cracking tool similar to hydra but with a focus on performance and reliability. It supports many protocols and services.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/77rzpahVGZE?si=ikzDYh8MHCCc8uj0)
 
 * **ophcrack**- is a GUI-based password cracker that specializes in cracking Windows passwords by using rainbow tables.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/s3b8WGJNY-k?si=LIWlHsi12kiD4QYB)
 
 * **wordlists**-Wordlists are collections of words or passwords used by password cracking tools for dictionary-based attacks. They can be generic wordlists or customized lists based on specific criteria.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/kA-eWYzjX8c?si=17hlNCOxUs6J_tvu)
+
 ## Wireless Attacks ##
 
 * **aircrack-ng**- is a suite of tools used for assessing Wi-Fi network security. It includes tools for capturing packets, analyzing wireless traffic, and cracking WEP and WPA/WPA2-PSK encryption keys.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/TreIFFNGMGU?si=Q7M23iWetx7ZfaUj)
 
 * **kismet**- is a wireless network detector, sniffer, and intrusion detection system. It can passively detect wireless networks, collect packet information, and identify hidden networks or potential security threats.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/3v_bwtHIToQ?si=h3yf7KQIa6bUs44H)
   
 * **pixiewps**-  is a tool used for offline brute-forcing of WPS (Wi-Fi Protected Setup) PINs. It exploits a vulnerability in the WPS protocol to recover the WPA/WPA2 passphrase.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/Wc66PEZUpJ4?si=eaGGsi6VReHHqOhy)
   
 * **reaver**- is a tool specifically designed for brute-forcing WPS PINs to recover WPA/WPA2 passphrases. It sends brute-force attacks against WPS-enabled routers to obtain the Wi-Fi network's password.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/_H9zB1ZWkvQ?si=MV0-h1Rz8zxbj4l2)
 
 * **wifite**-  is a wireless auditing tool that automates the process of scanning for available Wi-Fi networks, capturing packets, and attempting to crack WEP and WPA/WPA2 passwords. It's designed to be fast and easy to use for both beginners and experienced users.
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/qpnpI_mF3Aw?si=d1Z03jT2rSDqc0JW)
